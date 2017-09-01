@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datosDelTiempo>
+<localizacion>
+<nombre>Barcelona</nombre>
+<pais>ES</pais>
+<localizacion altitud="0" latitud="41.38879" longitud="2.15899"/>
+</localizacion>
+<prediccion>
+<tiempo desde="18:00:00" hasta="21:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="22"/>
+<temperatura max="17" media="17" min="16.74" unidad="celsius"/>
+<presion unidad="hPa" valor="1017.23"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="21:00:00" hasta="00:00:00">
+<precipitaciones/>
+<direccionViento direccion="Nordeste"/>
+<velocidadViento kmh="22"/>
+<temperatura max="16.86" media="16.86" min="16.66" unidad="celsius"/>
+<presion unidad="hPa" valor="1017.39"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes rotas"/>
+</tiempo>
+<tiempo desde="00:00:00" hasta="03:00:00">
+<precipitaciones type="rain" unit="3h" value="0.01"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="22"/>
+<temperatura max="16.92" media="16.92" min="16.79" unidad="celsius"/>
+<presion unidad="hPa" valor="1017.39"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="03:00:00" hasta="06:00:00">
+<precipitaciones type="rain" unit="3h" value="0.01"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="19"/>
+<temperatura max="16.77" media="16.77" min="16.71" unidad="celsius"/>
+<presion unidad="hPa" valor="1017.89"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="06:00:00" hasta="09:00:00">
+<precipitaciones type="rain" unit="3h" value="0.02"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="25"/>
+<temperatura max="16.95" media="16.95" min="16.95" unidad="celsius"/>
+<presion unidad="hPa" valor="1019.46"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="09:00:00" hasta="12:00:00">
+<precipitaciones type="rain" unit="3h" value="0.02"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="27"/>
+<temperatura max="17.14" media="17.14" min="17.14" unidad="celsius"/>
+<presion unidad="hPa" valor="1019.77"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="12:00:00" hasta="15:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="30"/>
+<temperatura max="17.26" media="17.26" min="17.26" unidad="celsius"/>
+<presion unidad="hPa" valor="1019.35"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="15:00:00" hasta="18:00:00">
+<precipitaciones type="rain" unit="3h" value="0.01"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="34"/>
+<temperatura max="17.17" media="17.17" min="17.17" unidad="celsius"/>
+<presion unidad="hPa" valor="1020.52"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="18:00:00" hasta="21:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="26"/>
+<temperatura max="16.91" media="16.91" min="16.91" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.55"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="pocas nubes"/>
+</tiempo>
+<tiempo desde="21:00:00" hasta="00:00:00">
+<precipitaciones/>
+<direccionViento direccion=""/>
+<velocidadViento kmh="15"/>
+<temperatura max="16.27" media="16.27" min="16.27" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.01"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="00:00:00" hasta="03:00:00">
+<precipitaciones type="rain" unit="3h" value="0.21"/>
+<direccionViento direccion="Oeste"/>
+<velocidadViento kmh="19"/>
+<temperatura max="15.95" media="15.95" min="15.95" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.65"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="03:00:00" hasta="06:00:00">
+<precipitaciones type="rain" unit="3h" value="0.79"/>
+<direccionViento direccion="NordOeste"/>
+<velocidadViento kmh="08"/>
+<temperatura max="15.23" media="15.23" min="15.23" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.58"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="06:00:00" hasta="09:00:00">
+<precipitaciones type="rain" unit="3h" value="0.1"/>
+<direccionViento direccion="Este-nordeste"/>
+<velocidadViento kmh="11"/>
+<temperatura max="16.56" media="16.56" min="16.56" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.71"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="pocas nubes"/>
+</tiempo>
+<tiempo desde="09:00:00" hasta="12:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sud"/>
+<velocidadViento kmh="08"/>
+<temperatura max="17.92" media="17.92" min="17.92" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.89"/>
+<humedad unidad="%" valor="99"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="12:00:00" hasta="15:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-sudoeste"/>
+<velocidadViento kmh="26"/>
+<temperatura max="18.2" media="18.2" min="18.2" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.25"/>
+<humedad unidad="%" valor="97"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="15:00:00" hasta="18:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-sudoeste"/>
+<velocidadViento kmh="26"/>
+<temperatura max="17.32" media="17.32" min="17.32" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.69"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="18:00:00" hasta="21:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-sudoeste"/>
+<velocidadViento kmh="20"/>
+<temperatura max="15.91" media="15.91" min="15.91" unidad="celsius"/>
+<presion unidad="hPa" valor="1024.06"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="21:00:00" hasta="00:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste"/>
+<velocidadViento kmh="19"/>
+<temperatura max="15.45" media="15.45" min="15.45" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.68"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="00:00:00" hasta="03:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-nordoeste"/>
+<velocidadViento kmh="19"/>
+<temperatura max="14.87" media="14.87" min="14.87" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.21"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="03:00:00" hasta="06:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-nordoeste"/>
+<velocidadViento kmh="18"/>
+<temperatura max="13.87" media="13.87" min="13.87" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.13"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="06:00:00" hasta="09:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-nordoeste"/>
+<velocidadViento kmh="15"/>
+<temperatura max="16.56" media="16.56" min="16.56" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.91"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="09:00:00" hasta="12:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sudoeste"/>
+<velocidadViento kmh="15"/>
+<temperatura max="19.2" media="19.2" min="19.2" unidad="celsius"/>
+<presion unidad="hPa" valor="1024.03"/>
+<humedad unidad="%" valor="91"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="12:00:00" hasta="15:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sud-sudoeste"/>
+<velocidadViento kmh="11"/>
+<temperatura max="19.96" media="19.96" min="19.96" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.5"/>
+<humedad unidad="%" valor="85"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="15:00:00" hasta="18:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este-sudeste"/>
+<velocidadViento kmh="15"/>
+<temperatura max="17.68" media="17.68" min="17.68" unidad="celsius"/>
+<presion unidad="hPa" valor="1024.59"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="18:00:00" hasta="21:00:00">
+<precipitaciones/>
+<direccionViento direccion=""/>
+<velocidadViento kmh="08"/>
+<temperatura max="16.54" media="16.54" min="16.54" unidad="celsius"/>
+<presion unidad="hPa" valor="1025.58"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="21:00:00" hasta="00:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-nordoeste"/>
+<velocidadViento kmh="06"/>
+<temperatura max="16.03" media="16.03" min="16.03" unidad="celsius"/>
+<presion unidad="hPa" valor="1025.11"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="00:00:00" hasta="03:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-nordoeste"/>
+<velocidadViento kmh="10"/>
+<temperatura max="15.48" media="15.48" min="15.48" unidad="celsius"/>
+<presion unidad="hPa" valor="1024.2"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="03:00:00" hasta="06:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste"/>
+<velocidadViento kmh="13"/>
+<temperatura max="15.06" media="15.06" min="15.06" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.77"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="06:00:00" hasta="09:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste"/>
+<velocidadViento kmh="13"/>
+<temperatura max="18.46" media="18.46" min="18.46" unidad="celsius"/>
+<presion unidad="hPa" valor="1024.41"/>
+<humedad unidad="%" valor="92"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="09:00:00" hasta="12:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sudoeste"/>
+<velocidadViento kmh="18"/>
+<temperatura max="20.43" media="20.43" min="20.43" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.34"/>
+<humedad unidad="%" valor="83"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="12:00:00" hasta="15:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sud-sudoeste"/>
+<velocidadViento kmh="30"/>
+<temperatura max="20.16" media="20.16" min="20.16" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.74"/>
+<humedad unidad="%" valor="84"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="15:00:00" hasta="18:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sud-sudoeste"/>
+<velocidadViento kmh="28"/>
+<temperatura max="18.34" media="18.34" min="18.34" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.61"/>
+<humedad unidad="%" valor="97"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="18:00:00" hasta="21:00:00">
+<precipitaciones/>
+<direccionViento direccion="Sudoeste"/>
+<velocidadViento kmh="28"/>
+<temperatura max="17.33" media="17.33" min="17.33" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.02"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="pocas nubes"/>
+</tiempo>
+<tiempo desde="21:00:00" hasta="00:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-sudoeste"/>
+<velocidadViento kmh="19"/>
+<temperatura max="16.9" media="16.9" min="16.9" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.1"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes rotas"/>
+</tiempo>
+<tiempo desde="00:00:00" hasta="03:00:00">
+<precipitaciones/>
+<direccionViento direccion="Oeste-sudoeste"/>
+<velocidadViento kmh="13"/>
+<temperatura max="16.33" media="16.33" min="16.33" unidad="celsius"/>
+<presion unidad="hPa" valor="1020.27"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="03:00:00" hasta="06:00:00">
+<precipitaciones/>
+<direccionViento direccion="Norte-nordeste"/>
+<velocidadViento kmh="13"/>
+<temperatura max="16.07" media="16.07" min="16.07" unidad="celsius"/>
+<presion unidad="hPa" valor="1020.92"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nubes rotas"/>
+</tiempo>
+<tiempo desde="06:00:00" hasta="09:00:00">
+<precipitaciones/>
+<direccionViento direccion="Nordeste"/>
+<velocidadViento kmh="22"/>
+<temperatura max="17.38" media="17.38" min="17.38" unidad="celsius"/>
+<presion unidad="hPa" valor="1021.99"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="nublado"/>
+</tiempo>
+<tiempo desde="09:00:00" hasta="12:00:00">
+<precipitaciones/>
+<direccionViento direccion="Nordeste"/>
+<velocidadViento kmh="17"/>
+<temperatura max="18.89" media="18.89" min="18.89" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.34"/>
+<humedad unidad="%" valor="93"/>
+<nubes valor="nubes dispersas"/>
+</tiempo>
+<tiempo desde="12:00:00" hasta="15:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este"/>
+<velocidadViento kmh="20"/>
+<temperatura max="18.85" media="18.85" min="18.85" unidad="celsius"/>
+<presion unidad="hPa" valor="1022.15"/>
+<humedad unidad="%" valor="94"/>
+<nubes valor="despejado"/>
+</tiempo>
+<tiempo desde="15:00:00" hasta="18:00:00">
+<precipitaciones/>
+<direccionViento direccion="Este"/>
+<velocidadViento kmh="17"/>
+<temperatura max="17.1" media="17.1" min="17.1" unidad="celsius"/>
+<presion unidad="hPa" valor="1023.28"/>
+<humedad unidad="%" valor="100"/>
+<nubes valor="pocas nubes"/>
+</tiempo>
+</prediccion>
+</datosDelTiempo>

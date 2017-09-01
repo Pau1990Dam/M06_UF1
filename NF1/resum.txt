@@ -1,0 +1,8 @@
+
+
+El llibre amb títol 'El último hombre' té com autor 'Mary Shelley' i va ser publicat l'any 1820
+El llibre amb títol 'Aurora' té com autor 'Kim S. Robinson' i va ser publicat l'any 2016
+El llibre amb títol 'El Quijote' té com autor 'Miguel de Cervantes' i va ser publicat l'any 1605
+El llibre amb títol 'El Hobbit' té com autor 'JRR Tolkien' i va ser publicat l'any 1937
+El llibre amb títol 'Fundación' té com autor 'Isaac Asimov' i va ser publicat l'any 1951
+El llibre amb títol 'Jurassic Park' té com autor 'Michael Crichton' i va ser publicat l'any 1990

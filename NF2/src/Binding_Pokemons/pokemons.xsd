@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Pokedex" type="PokedexType"/>
+  <xs:complexType name="PokedexType">
+    <xs:sequence>
+      <xs:element type="PokemonType" name="Pokemon" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="PokemonType">
+    <xs:sequence>
+      <xs:element type="NombreType" name="Nombre"/>
+      <xs:element name="PV">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="130"/>
+            <xs:enumeration value="80"/>
+            <xs:enumeration value="70"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Ataque1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Danza del Fuego"/>
+            <xs:enumeration value="Doblebofetón"/>
+            <xs:enumeration value="Hipnosis"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Ataque2">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Patada Llameante"/>
+            <xs:enumeration value="CaraTriste"/>
+            <xs:enumeration value="Come Sueños"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Etapa">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Fase 2"/>
+            <xs:enumeration value="Básico"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="NombreType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Classe" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>

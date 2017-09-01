@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<SOLAR_SYSTEM>
+    <PLANETS>
+
+        <PLANET COLOR="ORANGE">
+            <NAME>Mercury</NAME>
+            <DISTANCE UNITS="km">57.91</DISTANCE>
+            <RADIUS UNITS="km">2340</RADIUS>
+            <LENGTH_OF_YEAR>0.24085</LENGTH_OF_YEAR>
+            <DAY UNITS="days">88</DAY>
+            <MASS UNITS="(Earth=1)">0.054</MASS>
+            <DENSITY UNITS="gm/cm">6.03</DENSITY>
+            <SATELLITES>0</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="WHITE">
+            <NAME>Venus</NAME>
+            <DISTANCE UNITS="km">108.21</DISTANCE>
+            <RADIUS UNITS="km">6100</RADIUS>
+            <LENGTH_OF_YEAR>0.61521</LENGTH_OF_YEAR>
+            <DAY UNITS="days">230</DAY>
+            <MASS UNITS="(Earth=1)">0.814</MASS>
+            <DENSITY UNITS="gm/cm">5.11</DENSITY>
+            <SATELLITES>0</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="BLUE">
+            <NAME>Earth</NAME>
+            <DISTANCE UNITS="km">149.60</DISTANCE>
+            <RADIUS UNITS="km">6371</RADIUS>
+            <LENGTH_OF_YEAR>1.000039</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">24</DAY>
+            <MASS UNITS="(Earth=1)">1.00</MASS>
+            <DENSITY UNITS="gm/cm">5.517</DENSITY>
+            <SATELLITES>1</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="RED">
+            <NAME>Mars</NAME>
+            <DISTANCE UNITS="km">227.9</DISTANCE>
+            <RADIUS UNITS="km">3324</RADIUS>
+            <LENGTH_OF_YEAR>1.88089</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">24.5</DAY>
+            <MASS UNITS="(Earth=1)">0.107</MASS>
+            <DENSITY UNITS="gm/cm">4.16</DENSITY>
+            <SATELLITES>2</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="YELLOW">
+            <NAME>Jupiter</NAME>
+            <DISTANCE UNITS="km">778.3</DISTANCE>
+            <RADIUS UNITS="km">69750</RADIUS>
+            <LENGTH_OF_YEAR>11.8653</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">9.8</DAY>
+            <MASS UNITS="(Earth=1)">317.4</MASS>
+            <DENSITY UNITS="gm/cm">1.34</DENSITY>
+            <SATELLITES>63</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="YELLOW">
+            <NAME>Saturn</NAME>
+            <DISTANCE UNITS="km">1428</DISTANCE>
+            <RADIUS UNITS="km">58170</RADIUS>
+            <LENGTH_OF_YEAR>29.6501</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">10.2</DAY>
+            <MASS UNITS="(Earth=1)">95.0</MASS>
+            <DENSITY UNITS="gm/cm">0.68</DENSITY>
+            <SATELLITES>33</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="YELLOW">
+            <NAME>Uranus</NAME>
+            <DISTANCE UNITS="km">2872</DISTANCE>
+            <RADIUS UNITS="km">23750</RADIUS>
+            <LENGTH_OF_YEAR>83.7445</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">10.7</DAY>
+            <MASS UNITS="(Earth=1)">14.5</MASS>
+            <DENSITY UNITS="gm/cm">1.55</DENSITY>
+            <SATELLITES>27</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="PURPLE">
+            <NAME>Neptune</NAME>
+            <DISTANCE UNITS="km">4498</DISTANCE>
+            <RADIUS UNITS="km">22400</RADIUS>
+            <LENGTH_OF_YEAR>165.951</LENGTH_OF_YEAR>
+            <DAY UNITS="hours">12.7</DAY>
+            <MASS UNITS="(Earth=1)">17.6</MASS>
+            <DENSITY UNITS="gm/cm">2.23</DENSITY>
+            <SATELLITES>13</SATELLITES>
+        </PLANET>
+
+
+        <PLANET COLOR="GRAY">
+            <NAME>Pluto</NAME>
+            <DISTANCE UNITS="km">5910</DISTANCE>
+            <RADIUS UNITS="km">3000</RADIUS>
+            <LENGTH_OF_YEAR>247.687</LENGTH_OF_YEAR>
+            <DAY UNITS="days">6.39</DAY>
+            <MASS UNITS="(Earth=1)">0.2</MASS>
+            <DENSITY UNITS="gm/cm">5.2</DENSITY>
+            <SATELLITES>1</SATELLITES>
+        </PLANET>
+
+
+    </PLANETS>
+
+</SOLAR_SYSTEM>

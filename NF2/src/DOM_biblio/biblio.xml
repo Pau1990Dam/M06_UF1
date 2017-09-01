@@ -1,0 +1,32 @@
+<biblioteca>
+	<libro>
+		<titulo>El último hombre</titulo>
+		<autor>Mary Shelley</autor>
+		<fecha>1820</fecha>
+	</libro>
+	<libro>
+		<titulo>Aurora</titulo>
+		<autor>Kim S. Robinson</autor>
+		<fecha>2016</fecha>
+	</libro>
+	<libro>
+		<titulo>El Quijote</titulo>
+		<autor>Miguel de Cervantes</autor>
+		<fecha>1605</fecha>
+	</libro>
+	<libro>
+		<titulo>El Hobbit</titulo>
+		<autor>JRR Tolkien</autor>
+		<fecha>1937</fecha>
+	</libro>
+	<libro>
+		<titulo>Fundación</titulo>
+		<autor>Isaac Asimov</autor>
+		<fecha>1951</fecha>
+	</libro>
+	<libro>
+		<titulo>Jurassic Park</titulo>
+		<autor>Michael Crichton</autor>
+		<fecha>1990</fecha>
+	</libro>
+</biblioteca>
